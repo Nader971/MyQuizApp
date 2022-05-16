@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyQuizApp</string>
+    <string name="submit">Submit</string>
+    <string name="image">Image</string>
+    <string name="_0_9">0/9</string>
+    <string name="he_congratulations">Hey, Congratulations!</string>
+</resources>
